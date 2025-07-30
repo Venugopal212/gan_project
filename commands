@@ -1,0 +1,3 @@
+python visualize.py --type cgan --ckpt logs/cgan/ --out cgan_outputs/
+
+python visualize.py --type dcgan --ckpt logs/dcgan/ --out dcgan_output.png
