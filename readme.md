@@ -52,6 +52,18 @@ cd ..
 cd part2_pathmnist
 ```
 
+### Train Conditional GAN (cGAN)
+
+```bash
+python train_cgan.py
+```
+
+### Train Deep Convolutional GAN (DCGAN)
+
+```bash
+python train_dcgan.py
+```
+
 ### ➤ Visualize Conditional GAN (cGAN)
 
 ```bash
